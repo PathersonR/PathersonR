@@ -1,6 +1,3 @@
-### To whom it may concern, good day 👋
-
-
 ## Profile
 - Junior developer adept in the back end, front end, testing, and maintenance of software systems. Knows various platforms and languages. Able to effectively work in individual projects, as well as collaborating as part of a team.
 
