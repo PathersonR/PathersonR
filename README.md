@@ -6,7 +6,7 @@
 ## Skills
 
 
-    -Languages and technologies: Java, Pythong, C#, HTML, CSS, Javascript, and MEAN.
+    -Languages and technologies: Java, Python, C#, HTML, CSS, Javascript, and MEAN.
     -Software Logic
     -Adaptability
     -Good work ethic and discipline based on military background
