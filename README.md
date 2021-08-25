@@ -11,6 +11,7 @@
     -Adaptability
     -Good work ethic and discipline based on military background
     -Bilingual
+    -security clearance
 
 ## Employment History
 
