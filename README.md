@@ -1,5 +1,6 @@
 ### To whom it may concern, good day 👋
 
+
 ## Profile
 - Junior developer adept in the back end, front end, testing, and maintenance of software systems. Knows various platforms and languages. Able to effectively work in individual projects, as well as collaborating as part of a team.
 
@@ -12,6 +13,13 @@
     -Good work ethic and discipline based on military background
     -Bilingual
     -security clearance
+    
+## Currently working on
+
+
+
+## Currently learning 
+-Git and GitHub
 
 ## Employment History
 
@@ -33,7 +41,7 @@ Email: patherson05@gmail.com   phone: 5042733599
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MEAN technologies.
+- 🔭 I’m currently working on .
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
