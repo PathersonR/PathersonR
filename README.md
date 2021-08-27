@@ -4,7 +4,7 @@
 ## Skills
 
 
-    -Languages and technologies: Java, Python, C#, HTML, CSS, Javascript, and MEAN.
+    -Languages and technologies: Java, Python, C#, HTML, CSS, Javascript, MEAN, and MySQL.
     -Software Logic
     -Adaptability
     -Good work ethic and discipline based on military background
@@ -12,8 +12,8 @@
     -security clearance
     
 ## Currently working on 
-https://github.com/PathersonR/testmongoreact
-https://github.com/PathersonR/testmongo
+- https://github.com/PathersonR/testmongoreact
+- https://github.com/PathersonR/testmongo
 
 
 
